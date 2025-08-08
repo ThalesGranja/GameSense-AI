@@ -44,3 +44,10 @@ cd GameSense-AI
 - Personalização da IA com base em perfil do jogador
 - Suporte a voz e leitura em tempo real de partidas
 - Versão mobile responsiva
+
+## 📬 Contato
+
+Se você tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/thales-granja)
+- 📧 thalesgranja.dev@gmail.com
